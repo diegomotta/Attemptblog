@@ -1,0 +1,3 @@
+Instalar PIP, DJANGO, psycopg2
+-BASE DE DATOS - Makemigrations busca modificaciones, y los envuelve en un paquete todos los cambios, con MIGRATE manda esos cambios a la base de datos
+-ADMIN - Pagina administrativa
